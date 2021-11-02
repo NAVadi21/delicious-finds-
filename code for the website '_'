@@ -1,17 +1,17 @@
-        <!DOCTYPE html>
+           <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Zomato</title>
+    <title>DELICIOUS FINDS</title>
     <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body>
     <div class="navbar">
       <div class="navbar_logo">
-          <img class="navbar_hero" src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png" alt="logo" />
+          <img class="navbar_hero" src="C:\Users\flyin\Downloads\DELICIOUS.png?fit=around|402:360&crop=402:360;*,*" alt="logo" />
       </div>
       <div class="search_container">
           <input type="text" placeholder="Search for a restaurant , cuisine or dish" name="search">
@@ -39,7 +39,7 @@
           <div class="card_image">
               <img src="https://b.zmtcdn.com/webFrontend/b256d0dd8a29f9e0623ecaaea910534d1585809352.png?fit=around|402:360&crop=402:360;*,*" />
           </div>
-          <h2 class="text">Zomato pro</h2>
+          <h2 class="text">delicious finds xTRA</h2>
       </div>
       <div class="column">
           <div class="card_image">
@@ -247,10 +247,7 @@
           </div>
           <div class="client-comment">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Voluptatum quidem sapiente temporibus magnam provident delectus
-              rerum animi accusamus sed molestias. Adipisci mollitia natus
-              accusantium ipsum corrupti vel blanditiis libero magni.
+              I am thrilled to get my order delivered within 40 min.keep up good work DF.
             </p>
           </div>
         </div>
@@ -275,10 +272,11 @@
           </div>
           <div class="client-comment">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Voluptatum quidem sapiente temporibus magnam provident delectus
-              rerum animi accusamus sed molestias. Adipisci mollitia natus
-              accusantium ipsum corrupti vel blanditiis libero magni.
+              Great ambience and equally amazing service special shout-out to 
+              Sharad, Arjun and Nitin. They were really helpful.
+              The food was amazing specially dahi wada and daal baati . 
+              They have a huge spread of desserts to select from.
+              It’s a must try
             </p>
           </div>
         </div>
@@ -304,10 +302,7 @@
           </div>
           <div class="client-comment">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Voluptatum quidem sapiente temporibus magnam provident delectus
-              rerum animi accusamus sed molestias. Adipisci mollitia natus
-              accusantium ipsum corrupti vel blanditiis libero magni.
+             BOYS PLAYED WELL XD. 
             </p>
           </div>
         </div>
@@ -333,10 +328,8 @@
           </div>
           <div class="client-comment">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Voluptatum quidem sapiente temporibus magnam provident delectus
-              rerum animi accusamus sed molestias. Adipisci mollitia natus
-              accusantium ipsum corrupti vel blanditiis libero magni.
+              loved the ice cream waffle and the cold drinks 
+              they were chilled just like me .
             </p>
           </div>
         </div>
@@ -351,17 +344,13 @@
       <div class="l-footer">
         <h1>
           <img
-            src="https://www.bing.com/th?id=OIP.fPryo6eW5m4-k9yFOyyZuAHaEK&w=283&h=150&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2"
-            width="150"
-            height="120"
+            src="C:\Users\flyin\Downloads\DELICIOUS.png"
+            width="250"
+            height="200"
             alt="logo"
           />
         </h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam
-          atque recusandae in sit sunt molestiae aliquid fugit. Mollitia eaque
-          tempore iure sit nobis? Vitae nemo, optio maiores numquam quis
-          recusandae.
         </p>
       </div>
       <ul class="r-footer">
@@ -405,7 +394,7 @@
         </li>
       </ul>
       <div class="b-footer">
-        <p>All rights reserved by ©Zomato 2021</p>
+        <p>All rights reserved by ©Delicious finds 2021</p>
         <br>
         <p>Download the app now</p>
         <br>
